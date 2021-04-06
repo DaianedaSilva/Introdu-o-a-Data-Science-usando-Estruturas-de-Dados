@@ -2,4 +2,4 @@
 
 Projeto para o curso de Estrutura de Dados II da faculdade de Ciência da Computação
 
-link para o repli.t :https://github.com/DaianedaSilva/Introducao-a-Data-Science-usando-Estruturas-de-Dados
+link para o repli.t: https://replit.com/join/vvmlnuev-daianesilva3
